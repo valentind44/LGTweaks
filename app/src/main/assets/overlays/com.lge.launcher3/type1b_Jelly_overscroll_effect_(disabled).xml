@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_feature_support_overscroll_slide_screen_effect">true</bool>
+</resources>

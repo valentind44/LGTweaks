@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_feature_new_icon_shape_list">false</bool>
+</resources>

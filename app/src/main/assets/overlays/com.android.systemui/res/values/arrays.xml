@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_touch_color_option">
+        <item>\#fafafa</item>
+        <item>\#ffffff</item>
+        <item>\#eb306f</item>
+        <item>\#4386f9</item>
+        <item>\#ef5350</item>
+        <item>\#78909c</item>
+        <item>\#4caf50</item>
+        <item>\#26a69a</item>
+    </string-array>
+</resources>

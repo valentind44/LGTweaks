@@ -1,0 +1,14 @@
+V1.1
+- Disabled asset encryption
+- Fixed Multi window, Notification, Capture+ and QSlide Navbar icons
+V1.2
+- Added Black, S Blue and iGreen colors
+- Added Android P, Android P Clean, Parapaper and Pixel navbars (from https://forum.xda-developers.com/gal...msung-t3658050)
+- Added Pixel statusbar (from https://forum.xda-developers.com/gal...msung-t3658050)
+V1.3
+- Slight statusbar modification
+V1.4
+- LG Home : Enable LG's hidden icon shape choice (Circle, Square), Disable jelly overscroll effect
+- Navbar color : Homescreen launcher and custom color choices
+- LG System Resources : Disable dialog blur effect
+- From ProfessorProspector : Add Solid + Pixel style QuickMemo, Notification Shade, and Multitasking buttons and add Pixel Blue accent color
