@@ -12,3 +12,8 @@ V1.4
 - Navbar color : Homescreen launcher and custom color choices
 - LG System Resources : Disable dialog blur effect
 - From ProfessorProspector : Add Solid + Pixel style QuickMemo, Notification Shade, and Multitasking buttons and add Pixel Blue accent color
+V1.5
+- LG Home : round page indicator
+- LG Settings : round settings icons
+- LG Dialer : Google Phone theme
+- LG System Resources : Android P actionbar color (and disable list separators)

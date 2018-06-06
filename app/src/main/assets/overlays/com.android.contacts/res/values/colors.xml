@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_color_contact">#ff2a56c6</color>
+    <color name="dialpad_numberkey_color">#ff2a56c6</color>
+    <color name="ic_t_call_default_color">#ff01c853</color>
+</resources>

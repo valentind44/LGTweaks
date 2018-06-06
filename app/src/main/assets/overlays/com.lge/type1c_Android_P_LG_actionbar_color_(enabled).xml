@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_material_background_color">#fff8f9fb</color>
+    <color name="color_statusbar_background">#ffe0e0e0</color>
+    <color name="list_divider_color">#00000000</color>
+</resources>
