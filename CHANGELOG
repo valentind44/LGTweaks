@@ -21,3 +21,6 @@ V1.6
 - T-Mobile signal icons theming
 - Hide VPN icon
 - Updated heroimage
+V1.7
+- Textra : rename the app to "Messages" and white startup screen
+- Data status icons : compatible with Verizon and hide option thanks to @ProfessorProspector
